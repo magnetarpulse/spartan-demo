@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Requirements and Setup Guide
+title: Requirements and Setup
 nav_order: 1
-has_toc: true
 ---
 
-# Requirements and Setup Guide
+# Requirements and Setup
 
 This project has been developed and tested on Ubuntu 24.04 LTS.
 If you plan to use a different OS, then make sure that you check the official documentation for your OS.
