@@ -1,4 +1,4 @@
-## Xilinx Spartan 7 FPGA Programming Demo
+# Xilinx Spartan 7 FPGA Programming Demo
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 This repository contains an implementation of a simple demo for programming the Spartan 7 FPGA.
