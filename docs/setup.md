@@ -1,8 +1,7 @@
 ---
 layout: default
-title:  Requirements and Setup
-nav_order: 2
-has_children: false
+title: Requirements and Setup Guide
+nav_order: 1
 has_toc: true
 ---
 
