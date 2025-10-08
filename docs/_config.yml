@@ -1,18 +1,23 @@
 title: Spartan-Demo
 description: Xilinx Spartan 7 FPGA Programming Demo
-theme: minima
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 basurl: "/spartan-demo"
 
 header_pages:
   - index.md
 
-minima:
-  skin: classic
-
 markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+
+just_the_docs:
+  color_scheme: light
+  search_enabled: true
+  nav_external_links:
+    - title: GitHub Repo
+      url: https://github.com/magnetarpulse/spartan-demo
 
 exclude:
   - README.md

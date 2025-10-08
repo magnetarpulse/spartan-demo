@@ -1,6 +1,9 @@
 ---
 layout: home
 title: Home
+nav_order: 1
+has_children: false
+has_toc: true
 ---
 
 ## Xilinx Spartan 7 FPGA Programming Demo
@@ -28,6 +31,10 @@ Install Vivado and Vitis:
 chmod +x FPGAs_AdaptiveSoCs_Unified_SDI_2025.1_0530_0145_Lin64.bin
 ./FPGAs_AdaptiveSoCs_Unified_SDI_2025.1_0530_0145_Lin64.bin
 ```
-Insert your AMD login credentials in the installation menu:
+Insert your AMD login credentials in the installation menu and click next:
 
-![Installation Menu]({{ '/assets/images/install01.png' | relative_url }})
+![Installation Login]({{ '/assets/images/install01.png' | relative_url }})
+
+Select Vivado from the installation menu and click next:
+
+![Installation Vivado]({{ '/assets/images/install02.png' | relative_url }})
