@@ -1,4 +1,4 @@
-title: Spartan-Demo
+title: spartan-demo
 description: Xilinx Spartan 7 FPGA Programming Demo
 
 baseurl: "/spartan-demo"
@@ -13,3 +13,6 @@ markdown: kramdown
 just_the_docs:
   color_scheme: light
   search_enabled: true
+  nav_external_links:
+    - title: GitHub Repo
+      url: https://github.com/magnetarpulse/spartan-demo
