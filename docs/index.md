@@ -2,9 +2,10 @@
 layout: home
 title: Documentation Home
 nav_order: 0
+has_toc: false
 ---
 
-# Xilinx Spartan 7 FPGA Programming Demo Documentation
+# Xilinx Spartan 7 FPGA Programming Demo
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 This repository contains an implementation of a simple demo for programming the Spartan 7 FPGA.
