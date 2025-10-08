@@ -40,3 +40,11 @@ Click next:
 
 Accept all the user agreements, select an installation target and install the IDEs:
 ![Installation Step 5]({{ '/assets/images/install05.png' | relative_url }})
+
+Install Vivado libraries and drivers:
+```
+cd ${vivado_install_path}/Vivado/scripts
+sudo ./installLibs.sh
+cd ${vivado_install_path}//data/xicom/cable_drivers/lin64/install_script/install_drivers
+sudo ./install_drivers
+```
