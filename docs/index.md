@@ -13,3 +13,4 @@ This demo shows how hardware and software can be integrated into a larger applic
 ## Getting Started
 
 - Set up the programming enviroment by checking out [Requirements and Setup](./setup.md);
+- Create a simple hello world hardware module by checking out [Verilog Hello World](./hello_world.md)
