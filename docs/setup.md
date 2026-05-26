@@ -13,7 +13,7 @@ If you plan to use a different OS, then make sure that you check the official do
 
 To install Vivado and Vitis IDEs, you will need to install the following packages first, otherwise the installation will fail:
 ```
-sudo apt install libtinfo5 libncurses5 libncurses5-dev
+sudo apt install libtinfo6 libncurses6 libncurses-dev
 ```
 
 Download the AMD Unified Installer for FPGAs & Adaptive SoCs 2025.1: Linux Self Extracting Web Installer from: [https://www.xilinx.com/support/download.html](https://www.xilinx.com/support/download.html). You will need to create an account with AMD and will need to log in using that account in order to download the installer.
