@@ -18,7 +18,7 @@ sudo apt update
 sudo apt install -y software-properties-common
 sudo add-apt-repository -y ppa:deadsnakes/ppa
 sudo apt update
-sudo apt install -y python3.14 make texinfo flex bison zlib1g-dev libgmp-dev libmpfr-dev iverilog ghdl verilator build-essential cmake g++-14 gcc-14 cmake
+sudo apt install -y python3.14 make gawk texinfo flex bison zlib1g-dev libgmp-dev libmpfr-dev iverilog ghdl verilator build-essential cmake g++-14 gcc-14 cmake
 sudo update-alternatives --remove-all gcc
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-13 130
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-14 140
