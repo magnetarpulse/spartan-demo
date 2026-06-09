@@ -1,3 +1,4 @@
 [submodule "block_chain_miner/neorv32"]
 	path = block_chain_miner/neorv32
 	url = https://github.com/stnolting/neorv32.git
+	ignore = all
